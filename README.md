@@ -2,34 +2,45 @@
 FocusFlow is a productivity tool that combines task management with a built-in Pomodoro-style timer. Users can create, edit, and track tasks while focusing on one task at a time using timed work sessions. Tasks auto-update as completed when the timer ends, helping improve focus and workflow efficiency.
 
 
-<img width="1915" height="946" alt="image" src="https://github.com/user-attachments/assets/bc11813b-56ed-4abf-a495-3e636590cc59" />
+<img width="1918" height="940" alt="image" src="https://github.com/user-attachments/assets/80ac7d20-3dad-4074-beeb-cccac185601a" />
+
 
 
 
 EDIT
 
-<img width="1915" height="947" alt="image" src="https://github.com/user-attachments/assets/eab02ab6-63f2-4491-b818-ddb942b083b0" />
+<<img width="1915" height="949" alt="image" src="https://github.com/user-attachments/assets/5ab4052e-dc88-45f7-9e76-15182ac7cbfc" />
+
+<img width="1915" height="946" alt="image" src="https://github.com/user-attachments/assets/ec15b04b-ea9b-4151-afe5-9bd453970692" />
+
 
 ON CLICK OF START FOCUS
-<img width="1917" height="944" alt="image" src="https://github.com/user-attachments/assets/33fc12f6-0d21-44c8-8dbf-aa748dc8d82a" />
+<img width="1916" height="937" alt="image" src="https://github.com/user-attachments/assets/698fa87b-e85c-4006-b54a-eca4f52a5b48" />
+
 
 START / PAUSE 
-<img width="1916" height="943" alt="image" src="https://github.com/user-attachments/assets/5da94f12-27ae-4ffc-a485-1c4285695a61" />
+<img width="1900" height="945" alt="image" src="https://github.com/user-attachments/assets/792cd7c3-67e4-4dcc-995f-2031569e88e7" />
+
 
 RESET
-<img width="1917" height="949" alt="image" src="https://github.com/user-attachments/assets/b6d1305b-d8b3-4da3-96c2-e9ba5e995bff" />
+<img width="1896" height="948" alt="image" src="https://github.com/user-attachments/assets/bbe63fc6-4192-4d38-b5cb-702f33476fac" />
+
 
 TASK COMPLETED
-<img width="1911" height="950" alt="image" src="https://github.com/user-attachments/assets/50197570-209a-46fe-8a31-762bf7ed457a" />
+<img width="1899" height="942" alt="image" src="https://github.com/user-attachments/assets/2a14edea-7b23-4345-9eec-34ce54610525" />
+
 
 AFTER TASK COMPLETION 
-<img width="1919" height="951" alt="image" src="https://github.com/user-attachments/assets/fd2d731c-9145-4cbc-98d7-26764bb6851e" />
+<img width="1919" height="953" alt="image" src="https://github.com/user-attachments/assets/08a9e618-702a-43ca-ae7d-63b2cb9fdae1" />
+
 
 COMPLETED TASK'S
-<img width="1918" height="945" alt="image" src="https://github.com/user-attachments/assets/8dab1bc5-640d-48ef-8ed0-1ffeecd559d8" />
+<img width="1919" height="936" alt="image" src="https://github.com/user-attachments/assets/fe9251ec-3fe4-4964-9c40-1ccaf0970039" />
+
 
 PENDING TASK'S
-<img width="1914" height="944" alt="image" src="https://github.com/user-attachments/assets/dcf77531-fd2b-4652-abf6-536554965700" />
+<img width="1914" height="950" alt="image" src="https://github.com/user-attachments/assets/24bcb191-d409-4835-be92-90a6d4ef7307" />
+
 
 
 
