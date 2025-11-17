@@ -1,0 +1,112 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  min-height: 100vh;
+  padding: 20px;
+}
+
+#root {
+  width: 100%;
+}
+
+div {
+  width: 100%;
+}
+
+/* Main App Container */
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 48px;
+  margin: 30px 0 40px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+/* Layout Container */
+.app-layout {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+  padding: 0 20px;
+}
+
+/* Timer Section */
+.timer-section {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+}
+
+/* Task Manager Section */
+.task-section {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+  .app-layout {
+    grid-template-columns: 1fr;
+  }
+
+  h1 {
+    font-size: 40px;
+    margin: 20px 0 30px;
+  }
+}
+
+@media (max-width: 768px) {
+  body {
+    padding: 10px;
+  }
+
+  h1 {
+    font-size: 32px;
+    margin: 15px 0 20px;
+  }
+
+  .app-layout {
+    gap: 20px;
+    padding: 0 10px;
+  }
+
+  .timer-section,
+  .task-section {
+    padding: 15px;
+    border-radius: 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    padding: 5px;
+  }
+
+  h1 {
+    font-size: 24px;
+    margin: 10px 0 15px;
+  }
+
+  .app-layout {
+    gap: 15px;
+    padding: 0 5px;
+  }
+
+  .timer-section,
+  .task-section {
+    padding: 12px;
+  }
+}
