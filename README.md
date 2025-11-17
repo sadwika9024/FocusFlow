@@ -1,5 +1,6 @@
 # FocusFlow
 FocusFlow is a productivity tool that combines task management with a built-in Pomodoro-style timer. Users can create, edit, and track tasks while focusing on one task at a time using timed work sessions. Tasks auto-update as completed when the timer ends, helping improve focus and workflow efficiency.
+USING JAVA SPRING BOOT AND REACT JS
 
 
 <img width="1918" height="940" alt="image" src="https://github.com/user-attachments/assets/80ac7d20-3dad-4074-beeb-cccac185601a" />
